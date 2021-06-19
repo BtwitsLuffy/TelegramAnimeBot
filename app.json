@@ -8,7 +8,7 @@
          "manager",
          "Light"
       ],   
-   "repository": "https://github.com/YashMorya/TelegramAnimeBot",
+   "repository": "https://github.com/btwitsluffy/TelegramAnimeBot",
    "addons": [
       {
          "options": {
@@ -181,7 +181,7 @@
       "REPOSITORY": {
          "description": "Put Your Github Repository Here If You Don't Have One Just Leave It As It Is",
          "required": true,
-         "value": "https://github.com/YashMorya/LightYagami"
+         "value": "https://github.com/btwitsluffy/telegramanimebot"
       },
       "BOT_ID": {
          "description": "Your Bot's Id",
