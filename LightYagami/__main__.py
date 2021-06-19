@@ -199,7 +199,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="⚖️Add Kira to your group⚖️",
+                            text="⚖️Add Jiraiya to your group⚖️",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
                      [
@@ -208,16 +208,15 @@ def start(update: Update, context: CallbackContext):
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="🔔 Updates Of Light 🔔",
-                             url="https://t.me/seedofbots")
+                             url="https://t.me/Jiraiya_Support_Chat")
                      ],
                     
                     [
                          InlineKeyboardButton(
                              text="❤My God❤",
-                             url="https://t.me/death_note_light_yagami"),
-                         InlineKeyboardButton(
-                             text="⌨Repo🖱",
-                             url="https://github.com/YashMorya/LightYagami")
+                             url="https://t.me/UnofficialMikey"),
+                        
+               
                      ],[
                         InlineKeyboardButton(
                             text="❗❔Help And Commands❔",
